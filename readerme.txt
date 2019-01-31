@@ -1,2 +1,3 @@
 hhhh
 second hello world
+diff cached
