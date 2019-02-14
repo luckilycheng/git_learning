@@ -1,3 +1,9 @@
 hhhh
 second hello world
 diff cached
+add git and commit
+edit readerme
+hh
+test merge conflict
+xxxx
+xxxx
